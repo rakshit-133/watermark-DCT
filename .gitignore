@@ -1,0 +1,14 @@
+# .gitignore
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Test/Output Images
+*.jpg
+*.png
+*.jpeg
+
+# But DO include the host image
+!host_image.png
