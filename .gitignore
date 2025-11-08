@@ -12,3 +12,8 @@ __pycache__/
 
 # But DO include the host image
 !host_image.png
+
+# Node.js
+frontend/node_modules
+frontend/build
+.DS_Store
